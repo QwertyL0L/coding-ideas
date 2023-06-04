@@ -1,0 +1,43 @@
+play snake with your voice
+
+youtube bot that posts a new vid for every sub (against tos so cant do it sadly)
+
+music selfbot for discord
+
+website that displays your search history
+
+discord bot that can act as a command prompt
+
+improved openai selfbot
+
+discord selfbot that mass reacts a user's message with emojis
+
+stable diffusion model that turns prompt/image to anime
+
+discord selfbot that controls multiple tokens by making them send any message the i want
+
+siri selfbot for discord
+
+ascii art face filter
+
+image to ascii website using Flask
+
+desktop goose clone using python
+
+phone number to ip gui using tkinter
+
+an emoji based language using only python
+
+a discord bot that forces you to use brainfuck to call commands
+
+a discord bot that responds using brainfuck
+
+a cmd prompt that takes image paths and outputs the image using python turtle
+
+a version of command prompt meant for hackers
+
+snake but if u die then system32 gets deleted (virtual machine obviously)
+
+grapple hook game using pygame
+
+play roblox in roblox using python (cuz im too lazy to learn lua)
