@@ -41,3 +41,9 @@ snake but if u die then system32 gets deleted (virtual machine obviously)
 grapple hook game using pygame
 
 play roblox in roblox using python (cuz im too lazy to learn lua)
+
+control mouse with hand gestures (kinda like telekinesis)
+
+draw on screen using hand tracking
+
+python program that spaces out text as you write ex. t e s t
