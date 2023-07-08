@@ -18,7 +18,7 @@ discord selfbot that controls multiple tokens by making them send any message th
 
 siri selfbot for discord
 
-ascii art face filter
+face filter thingy idk
 
 image to ascii website using Flask
 
@@ -42,8 +42,14 @@ grapple hook game using pygame
 
 play roblox in roblox using python (cuz im too lazy to learn lua)
 
-control mouse with hand gestures (kinda like telekinesis)
+control mouse or computer with hand gestures (kinda like telekinesis)
 
 draw on screen using hand tracking
 
 python program that spaces out text as you write ex. t e s t
+
+roblox bot that moves based on where your hand is
+
+a python website that lets you generate new and random rickroll links so that people cant memorize them
+
+a website that lets you play snake but if u die ur browser crashes >:)
